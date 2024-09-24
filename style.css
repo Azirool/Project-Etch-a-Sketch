@@ -1,5 +1,4 @@
 .container {
-    background-color: aqua;
     width: 550px;
     height: 550px;
     display: flex;
@@ -10,4 +9,9 @@
     background-color: pink;
     height: 32px;
     width: 32px;
-    border: 1px solid lightgray;}
+    border: 1px solid lightgray;
+}
+
+.button {
+    margin-bottom: 20px;
+}
